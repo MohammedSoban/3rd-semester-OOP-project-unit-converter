@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1497412676 source:e:\uni\3rd semester\oop\project unit converter\consoleapplication1\consoleapplication1\area.cpp
+	<iostream>
+	"Lengths.h"
+	"Area.h"
+
+1497415732 e:\uni\3rd semester\oop\project unit converter\consoleapplication1\consoleapplication1\lengths.h
+	<iostream>
+
+1497402400 e:\uni\3rd semester\oop\project unit converter\consoleapplication1\consoleapplication1\area.h
+	<iostream>
+	"Lengths.h"
+
+1497390896 source:e:\uni\3rd semester\oop\project unit converter\consoleapplication1\consoleapplication1\energy.cpp
+	<iostream>
+	"Energy.h"
+
+1497390518 e:\uni\3rd semester\oop\project unit converter\consoleapplication1\consoleapplication1\energy.h
+	<iostream>
+
+1497415820 source:e:\uni\3rd semester\oop\project unit converter\consoleapplication1\consoleapplication1\lengths.cpp
+	<iostream>
+	"Lengths.h"
+
+1497414378 source:e:\uni\3rd semester\oop\project unit converter\consoleapplication1\consoleapplication1\mass.cpp
+	<iostream>
+	"Mass.h"
+
+1497414378 e:\uni\3rd semester\oop\project unit converter\consoleapplication1\consoleapplication1\mass.h
+	<iostream>
+
+1541510046 source:e:\uni\3rd semester\oop\project unit converter\consoleapplication1\consoleapplication1\source.cpp
+	<iostream>
+	"Lengths.h"
+	"Area.h"
+	"Mass.h"
+	"Temperature.h"
+	"Energy.h"
+	"Time.h"
+	"string"
+	<stdlib.h>
+
+1497375380 e:\uni\3rd semester\oop\project unit converter\consoleapplication1\consoleapplication1\temperature.h
+	<iostream>
+
+1497397318 e:\uni\3rd semester\oop\project unit converter\consoleapplication1\consoleapplication1\time.h
+	<iostream>
+
+1497389318 source:e:\uni\3rd semester\oop\project unit converter\consoleapplication1\consoleapplication1\temperature.cpp
+	<iostream>
+	"Temperature.h"
+
+1497402216 source:e:\uni\3rd semester\oop\project unit converter\consoleapplication1\consoleapplication1\time.cpp
+	<iostream>
+	"Time.h"
+	<iomanip>
+
